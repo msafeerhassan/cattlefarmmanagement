@@ -34,7 +34,7 @@ A comprehensive web application for managing dairy farm operations, built with R
 ### Installation
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/msafeerhassan/cattlefarmmanagement.git
 cd cattle-farm-management
 npm install
 npm run dev
