@@ -106,12 +106,16 @@ Go to Firestore Database and then in Indexes and then create these composite ind
 
 1- Collection: milk_records
         Fields: date (ASC), created_at (DESC)
+        
 2- Collection: health_records
         Fields: cow_id (ASC), date (DESC)
+
 3- Collection: breeding_records
         Fields: cow_id (ASC), date (DESC)
+        
 4- Collection: cows
         Fields: status (ASC), created_at (DESC)
+        
 
 ### Build and Deploy
 ```
