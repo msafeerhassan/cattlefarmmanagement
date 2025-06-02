@@ -132,3 +132,5 @@ MIT
 
 Contributing
 Pull requests welcome. Open issues first for major changes. 
+
+<!-- GitAds-Verify: JOLIJG6QSVYQAP5M5FALPG63KXT7I59A -->
