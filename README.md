@@ -1,3 +1,8 @@
+## GitAds Sponsored
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=msafeerhassan/cattlefarmmanagement@github)](https://gitads.dev/v1/ad-track?source=msafeerhassan/cattlefarmmanagement@github)
+
+
+
 # Cattle Farm Management System
 
 A comprehensive web application for managing dairy farm operations, built with React, TypeScript, and Firebase.
