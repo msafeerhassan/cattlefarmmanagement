@@ -138,4 +138,9 @@ MIT
 Contributing
 Pull requests welcome. Open issues first for major changes. 
 
+## GitAds Sponsored
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=msafeerhassan/cattlefarmmanagement@github)](https://gitads.dev/v1/ad-track?source=msafeerhassan/cattlefarmmanagement@github)
+
+
+
 <!-- GitAds-Verify: JOLIJG6QSVYQAP5M5FALPG63KXT7I59A -->
